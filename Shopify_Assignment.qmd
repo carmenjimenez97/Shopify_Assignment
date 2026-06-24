@@ -1,0 +1,89 @@
+---
+title: "ITP-Shopify Store - Assignment 1 - Shopify Orientation and Admin Exploration"
+author: "Carmen Lia Jimenez Rodriguez"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute:
+  freeze: auto
+---
+
+# Evidence of Shopify Learning Completion
+
+The required Shopify Academy learning materials were completed, including:
+
+- Introduction to Shopify
+- Navigating the Shopify Admin
+- Developing on Shopify
+- Shopify Admin Guided Tour
+
+
+# Shopify Admin Exploration
+
+## Figure 1. Shopify Admin Dashboard
+
+![](images/Shopify Admin Dashboard.png)
+
+## Figure 2. Introduction to Shopify Course Completion
+
+![](images/Introduction to Shopify Course Completion.png)
+
+## Figure 3. Navigating the Shopify Admin Course Completion
+
+![](images/Navigating the Shopify Admin Course Completion.png)
+
+## Figure 4. Developing on Shopify Course Completion
+
+![](images/Developing on Shopify Course Completion.png)
+
+## Figure 5. Shopify Admin Guided Tour
+
+![](images/Shopify Admin Guided Tour.png)
+
+
+# Important Shopify Features
+
+## Products
+
+The Products section allows store owners to add new products, update product information, and organize their inventory. It serves as the main area for managing everything that will be available for customers to purchase.
+
+## Orders
+
+The Orders feature helps businesses keep track of purchases made by customers. It allows users to monitor order status and manage the fulfillment process.
+
+## Customers
+
+The Customers section stores customer information and helps businesses better understand their shoppers. It can be useful for building customer relationships and reviewing purchase history.
+
+## Analytics
+
+The Analytics feature provides insights into store performance, including sales activity and customer trends. This information can help businesses make better decisions based on data.
+
+## Discounts
+
+The Discounts section allows businesses to create promotions and special offers. These tools can help attract customers and encourage additional purchases.
+
+# CPP Farm Store Application Reflection
+
+I think Shopify could be very helpful for the CPP Farm Store because it would give customers an easier way to learn about the products available and make purchases online. Not everyone has the opportunity to visit the store in person, so having an online platform could help the Farm Store reach more people and increase awareness of what it offers.
+
+Shopify could also help organize products, keep track of inventory, and promote seasonal items such as fresh produce and other specialty products. Another benefit is that customers could stay updated on new products, promotions, and events without having to visit the store. Overall, I think Shopify would be a good tool for helping the CPP Farm Store grow its customer base while continuing to support local agriculture and the Cal Poly Pomona community.
+
+# Appendix
+
+## GitHub Repository
+
+To be added.
+
+## GitHub Pages Website
+
+To be added.
+---
+
+## 
